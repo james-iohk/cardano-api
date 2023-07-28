@@ -415,6 +415,7 @@ module Cardano.Api (
     SimpleScript',
     PlutusScriptV1,
     PlutusScriptV2,
+    PlutusScriptV3,
     ScriptLanguage(..),
     PlutusScriptVersion(..),
     AnyScriptLanguage(..),
